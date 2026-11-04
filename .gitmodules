@@ -1,0 +1,3 @@
+[submodule "themes/hugo-theme-kami"]
+	path = themes/hugo-theme-kami
+	url = https://github.com/mackt/hugo-theme-kami.git

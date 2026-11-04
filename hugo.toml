@@ -1,0 +1,8 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'Mondanité'
+theme = 'hugo-theme-kami'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
