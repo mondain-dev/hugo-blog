@@ -371,5 +371,5 @@ N.B. 关于字符显示问题请参考[此页](http://mondain.sodramatic.net/uni
 \[Addendum 27 Jan. 2010\]
 
 钱锺书所说“形諸圖繪”指的是 Jacob Cats 书里的一副插图, Google Books 今已扫描收录:
-![Jacob Cats, Ouderdom, buyten-leven, en hof-gedachten, op sorgh-vliet (1656).](cats-afbeedinge-thumb.jpg)
+![Jacob Cats, Doot-kiste voor de levendige of sinne-beelde uyt Godes woort.](cats-afbeedinge-thumb.jpg)
 Jacob Cats, _Doot-kiste voor de levendige of sinne-beelde uyt Godes woort; aenwijsende de kortwijligheyt, ydelheyt, en onsekerheyt van 't menschelijck bedrijf._ In _Ouderdom, buyten-leven, en Hof-gedachten op Sorgh-vliet_. J.J. Schipper, [1656](http://books.google.com/books?id=UwY-AAAAcAAJ&pg=RA4-PA71#v=onepage&q=&f=false).
