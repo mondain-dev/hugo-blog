@@ -60,7 +60,7 @@ title = '鼓史辨'
 
 民间传说诗人阿密爾·霍斯陸 [Amir Khusro](http://en.wikipedia.org/wiki/Amir_Khusro) (1253 — 1325)因为 pakhavaj 摔成两半而发明一对 [tablā](http://en.wikipedia.org/wiki/Tabla) 手鼓(由两件不同的手鼓组成). 但 R. M. Stewart 在其博士论文 _The Tablā in Perspective_ (UCLA, 1974)里则指出, 这一传说并不可靠, tablā 是相当晚近的乐器, 并未见于«阿克巴则例»关于当时礼乐的详尽记载, 最早的记载晚到十九世纪(N. Augustus Willard, _A Treatise on the Music of Hindoostan_, 1834).
 
-有说 tablā 一词来自阿拉伯语 طبل ṭabl, 是打击乐器鼓的泛称. 原始闪语 \*ṭab(a)l-. 古埃及语“鼓” 𓏏𓊸𓈖𓏸 或 [![t-b-D12](http://mondain.sodramatic.net/wp-content/uploads/2009/09/tbd12-thumb.png "t-b-D12")](http://mondain.sodramatic.net/wp-content/uploads/2009/09/tbd12.png) 𓏏𓃀𓏸 tbn. (V. E. Orel and O. V. Stolbova, _Hamito-Semitic Etymological Dictionary: Materials for a Reconstruction_, 1995, no. 2450; _Wörterbuch der ägyptischen Sprache_, v, S. 262)
+有说 tablā 一词来自阿拉伯语 طبل ṭabl, 是打击乐器鼓的泛称. 原始闪语 \*ṭab(a)l-. 古埃及语“鼓” 𓏏𓊸𓈖𓏸 或 𓏏𓃀𓏸 tbn. (V. E. Orel and O. V. Stolbova, _Hamito-Semitic Etymological Dictionary: Materials for a Reconstruction_, 1995, no. 2450; _Wörterbuch der ägyptischen Sprache_, v, S. 262)
 
 现代英语 _tambourin_(_e_) 是 _tambour_ 的指小词形式(diminutive), _Oxford English Dictionar_ 所列举的词源有现代法语和普罗旺斯语([Provençal](http://en.wikipedia.org/wiki/Proven%C3%A7al_dialect)) _tamborin_ (s.v. “tambourin”), 十八世纪以前法语写作 _tabourin_ (s.v. Frédéric Godefroy, _Dictionnaire de l’ancienne langue française_, T. 10, Complément, [p. 737](http://gallica.bnf.fr/ark:/12148/bpt6k50643x.image.f739.langFR.pagination)) < [OF.](http://en.wikipedia.org/wiki/Old_French) _tabur_ (11th c.), _tabour_ (13-16th c.).
 
