@@ -1,6 +1,6 @@
 +++
 date = '2026-11-09T09:42:00+11:00'
-draft = true
+draft = false
 title = 'About'
 +++
 
@@ -10,3 +10,4 @@ title = 'About'
 - X/Twitter --- [@mondanite](https://x.com/mondanite)
 - github --- [mondain-dev](https://github.com/mondain-dev)
 - Threads --- [@ms324102](https://www.threads.com/@ms324102)
+
